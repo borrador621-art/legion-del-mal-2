@@ -8,17 +8,17 @@
 ![Último commit](https://img.shields.io/github/last-commit/klerithx2/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/klerithx2/legion-del-mal?cacheSeconds=60)
 
-# 🦹‍♂️ La Legión del Mal - desde local
+# 🦹‍♂️ La Legión del Mal - desde pc
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
-> — Lex Luthor, fundador
+> — Lex Luthor, fuqndador
 
-## ¿Quiénes somos? - Desde remoto y local
+## ¿Quiénes somos?
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
 ## Estructura de la organización!!
-
+ 
 ```
 📁 planes/          → Operaciones aprobadas por el Consejo
 📁 miembros/        → Fichas de cada miembro activo
