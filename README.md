@@ -11,7 +11,7 @@
 # 🦹‍♂️ La Legión del Mal - desde pc
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
-> — Lex Luthor, fuqndador
+> — Lex Luthor, fundador
 
 ## ¿Quiénes somos?
 
