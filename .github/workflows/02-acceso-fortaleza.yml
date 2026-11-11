@@ -3,7 +3,7 @@ name: 💕Acceso a la fortaleza
 on: push
 
 jobs: 
-    acceso- la-fortaleza-prohibida:
+    acceso-a-la-fortaleza-prohibida:
         runs-on: ubuntu-latest
         
         steps:
@@ -13,4 +13,4 @@ jobs:
                 ls -la
                 echo ""
                 echo "❎ pero qué pasó? no hay nada"
-                
+
