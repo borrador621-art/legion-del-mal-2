@@ -24,15 +24,15 @@ jobs:
           
           
               -  name: Capacidades del agente
-             run: |
-              echo "capacidades detectadas:"
-              echo "sistema operativo"
-              uname -a
-              echo "habilidades técnicas"
-              node -- version
-              git --version
-              python3 --version
-            - name: Reconomiento del terreno
-              run: |
-                echo "Reconocimiento del terreno"
-                ls /
+                run: |
+                  echo "capacidades detectadas:"
+                  echo "sistema operativo"
+                  uname -a
+                  echo "habilidades técnicas"
+                  node -- version
+                  git --version
+                  python3 --version
+          - name: Reconomiento del terreno
+            run: |
+                  echo "Reconocimiento del terreno"
+                  ls /
