@@ -13,4 +13,19 @@ jobs:
                 ls -la
                 echo ""
                 echo "❎ pero qué pasó? no hay nada"
-
+            
+            - name: "Brainiac desbloquea la fortaleza"
+              uses: actions/checkout@v3
+            
+            - name: "Ahora si, vamos a ver los planes"
+                run: |
+                    echo "buscar los archivos de la legión"
+                    ls -la
+                    echo "🆗 Funciona!!!"
+                    echo ""
+                    echo "Planes:"
+                    ls planes/
+                    echo "villanos:"
+                    ls villanos/
+                    echo "inteligencia:"
+                    ls inteligencia/

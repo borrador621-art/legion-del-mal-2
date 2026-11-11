@@ -1,6 +1,8 @@
 name: Reclutamiento de Agentes
 
-on: push
+on:
+  workflow_dispatch:
+    
 
 jobs: 
     reporte-de-reclutamiento:
