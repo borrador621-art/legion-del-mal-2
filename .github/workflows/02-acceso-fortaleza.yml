@@ -18,14 +18,14 @@ jobs:
               uses: actions/checkout@v3
             
             - name: "Ahora si, vamos a ver los planes"
-                run: |
-                    echo "buscar los archivos de la legión"
-                    ls -la
-                    echo "🆗 Funciona!!!"
-                    echo ""
-                    echo "Planes:"
-                    ls planes/
-                    echo "villanos":"
-                    ls miembros/
-                    echo "inteligencia:"
-                    ls inteligencia/
+              run: |
+                echo "buscar los archivos de la legión"
+                ls -la
+                echo "🆗 Funciona!!!"
+                echo ""
+                echo "Planes:"
+                ls planes/
+                echo "villanos":"
+                ls miembros/
+                echo "inteligencia:"
+                ls inteligencia/
