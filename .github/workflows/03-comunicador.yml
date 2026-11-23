@@ -19,6 +19,19 @@ on:
         required: true
         default: 'La misión ha sido completada con éxito'
 
+#cow_character: eyes, tux, dragon, ghostbusters, stegosaurus, turkey, vader
+
+      cow_character:
+        description: 'Personaje para el mensaje'
+        required: true
+        type: choice
+        options:
+          - eyes
+          - ghostbusters
+          - dragon
+          - fox
+          - queen
+
       prioridad:
         description: 'Nivel de prioridad del mensaje'
         required: true
@@ -46,7 +59,7 @@ jobs:
           echo ""
           echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M:%S UTC")"
           echo " ------ MENSAJE ------"
-          cowsay -f eyes "${{ inputs.mensaje }}"
+          cowsay -f "${{ inputs.cow_character }}" "${{ inputs.mensaje }}"
           echo ""
           echo "------ ${{ inputs.villano }}"
           echo "..."
