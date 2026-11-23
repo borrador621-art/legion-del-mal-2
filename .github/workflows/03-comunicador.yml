@@ -34,7 +34,7 @@ jobs:
     steps:
       - name: Imprimir inputs
         run: |
-          echo "Inputs:
+          echo "Inputs:"
           echo ""
           echo "Villano: ${{ inputs.villano }}"
           echo "Mensaje: ${{ inputs.mensaje }}"
