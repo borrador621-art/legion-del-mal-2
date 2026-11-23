@@ -14,6 +14,20 @@ on:
           - Joker
           - Mistic
 
+      mensaje:
+        description: 'Mensaje para el consejo de villanos'
+        required: true
+        default: 'La misión ha sido completada con éxito'
+
+      prioridad:
+        description: 'Nivel de prioridad del mensaje'
+        required: true
+        type: choice
+        options:
+          - 💚 Normal
+          - 💛 Alta 
+          - 🩷 Crítico
+
 jobs:
   transmitir-mensaje: 
     runs-on: ubuntu-latest
