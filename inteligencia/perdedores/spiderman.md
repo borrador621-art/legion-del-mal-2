@@ -28,3 +28,6 @@ tommy Mcguayer
 - mary jean watson: waitress
 - gwen stacy: lab scientific student
 
+## Estrategia recomendada
+
+- se recomienda centrarse en mejorar la agilidad y la fuerza del personaje, así como en desarrollar habilidades de cambate cuerpo a cuerpo. Además, es importante mantener un equilibrio entre la vida personal de Peter Parker y sus responsabilidades como Spiderman para evitar conflictos que puedan afectar su desempeño como heroe.
