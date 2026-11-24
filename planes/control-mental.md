@@ -10,7 +10,7 @@ Estos son los planes de control mental que se pueden usar en el juego. Cada plan
 4. Registra el uso del plan de control mental en tu hoja de personaje o en el registro del juego.
 
 
-## PLAN DE ESCAPE
+## Plan de escape
 
 -  En caso de que el proceso de congelación falle o se presenten emergencias, ten un plan de escape claro. Esto incluye rutas de evacuación, puntos de reunión y comunicación con las autoridades locales para coordinar la respuesta.
 - Asegúrate de que todos los miembros del equipo estén familiarizados con el plan de escape y sepan cómo actuar en caso de una situación crítica.
